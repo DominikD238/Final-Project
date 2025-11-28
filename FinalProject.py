@@ -404,3 +404,4 @@ set_current_file(FILE_NAME)
 load_tasks()
 update_tree()
 root.mainloop()
+'''Setup complete'''
